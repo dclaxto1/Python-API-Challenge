@@ -9,7 +9,7 @@ To get started, the code required to generate random geographic coordinates and 
 ### Requirement 1: Create Plots to Showcase the Relationship Between Weather Variables and Latitude
 To fulfill the first requirement, I used the OpenWeatherMap API to retrieve weather data from the cities list generated in the starter code. Next, I created a series of scatter plots to showcase the following relationships:
 
-Latitude vs. Temperature  <br />
+Latitude vs. Temperature <br />
 ![image](https://github.com/dclaxto1/Python-API-Challenge/assets/128431134/52c8f828-ff83-4f04-8904-1caa228777c0)
 
 Latitude vs. Humidity<br />
