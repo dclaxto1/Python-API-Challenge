@@ -1,5 +1,5 @@
 # Module-6---Python-APIs   
-Data analysis and manipulation utilizing python APIs     
+Data analysis and manipulation utilizing python APIs      
 
 ## Part 1: WeatherPy  
 In this deliverable, I created a Python script to visualize the weather of over 500 cities of varying distances from the equator. I used the citipy Python libraryLinks to an external site., the OpenWeatherMap APILinks to an external site., and my own problem-solving skills to create a representative model of weather across cities.
